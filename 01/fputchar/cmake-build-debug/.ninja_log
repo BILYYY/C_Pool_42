@@ -1,9 +1,0 @@
-# ninja log v5
-1	129	7253593688824991	CMakeFiles/fputchar.dir/main.c.obj	7b04d26c6cfc8335
-132	321	7253593690722118	fputchar.exe	f75ea3c1013ea4c2
-6	112	7253597919877051	CMakeFiles/fputchar.dir/main.c.obj	7b04d26c6cfc8335
-113	244	7253597921167189	fputchar.exe	f75ea3c1013ea4c2
-3	87	7253598159531592	CMakeFiles/fputchar.dir/main.c.obj	7b04d26c6cfc8335
-87	220	7253598160778995	fputchar.exe	f75ea3c1013ea4c2
-3	86	7253598223948659	CMakeFiles/fputchar.dir/main.c.obj	7b04d26c6cfc8335
-86	229	7253598225304193	fputchar.exe	f75ea3c1013ea4c2
