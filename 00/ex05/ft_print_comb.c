@@ -21,6 +21,7 @@ void ft_print_commb(){
         }
         a++;
     }  
+
 }
 int main(){
     ft_print_commb();
